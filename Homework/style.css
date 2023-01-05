@@ -1,0 +1,356 @@
+* {
+    background-color: rgb(27, 24, 39);
+    
+}
+
+.container {
+    margin: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+.h1 {
+    width: 30px;
+    animation-name: chapga1;
+    animation-duration: 3s;
+    text-align: center;
+}
+
+.h2 {
+    width: 30px;
+    animation-name: onga;
+    animation-duration: 3s;
+    text-align: center;
+}
+
+.h3 {
+    width: 30px;
+    animation-name: chapga3;
+    animation-duration: 3s;
+    text-align: center;
+}
+
+.h4 {
+    width: 30px;
+    animation-name: ishora4;
+    animation-duration: 3s;
+    text-align: center;
+}
+
+.h5 {
+    width: 30px;
+    animation-name: ishora5;
+    animation-duration: 3s;
+    text-align: center;
+}
+.h6 {
+    width: 30px;
+    animation-name: ishora6;
+    animation-duration: 3s;
+    text-align: center;
+}
+.h7 {
+    width: 30px;
+    animation-name: ishora7;
+    animation-duration: 3s;
+    text-align: center;
+}
+.h8 {
+    width: 30px;
+    animation-name: ishora8;
+    animation-duration: 3s;
+    text-align: center;
+}
+.h9 {
+    width: 30px;
+    animation-name: ishora9;
+    animation-duration: 3s;
+    text-align: center;
+}
+.h10 {
+    width: 30px;
+    animation-name: ishora10;
+    animation-duration: 3s;
+    text-align: center;
+}
+.h11 {
+    width: 30px;
+    animation-name: ishora11;
+    animation-duration: 3s;
+    text-align: center;
+}
+.h12 {
+    width: 30px;
+    animation-name: ishora12;
+    animation-duration: 3s;
+    text-align: center;
+}
+.h13 {
+    width: 30px;
+    animation-name: ishora13;
+    animation-duration: 3s;
+    text-align: center;
+}
+
+@keyframes chapga1 {
+    0% {
+        margin-top: 500px;
+    }
+
+    100% {
+        margin-left: 0px;
+    }
+}
+
+@keyframes onga {
+    0% {
+        margin-left: -500px;
+    }
+
+    100% {
+        margin-left: 0px;
+    }
+}
+
+@keyframes chapga3 {
+    0% {
+        margin-top: 500px;
+    }
+
+    100% {
+        margin-left: 0px;
+    }
+}
+
+@keyframes ishora4 {
+    0% {
+        margin-top: -500px;
+    }
+
+    100% {
+        margin-left: 0px;
+    }
+}
+
+@keyframes ishora5 {
+    0% {
+        margin-top: 100px;
+    }
+
+    100% {
+        margin-left: 0px;
+    }
+}
+@keyframes ishora6 {
+    0% {
+        margin-top: -100px;
+    }
+
+    100% {
+        margin-left: 0px;
+    }
+}
+@keyframes ishora7 {
+    0% {
+        margin-top: 100px;
+    }
+
+    100% {
+        margin-left: 0px;
+    }
+}
+@keyframes ishora8 {
+    0% {
+        margin-top: -100px;
+    }
+
+    100% {
+        margin-left: 0px;
+    }
+}
+@keyframes ishora9 {
+    0% {
+        margin-top: 100px;
+    }
+
+    100% {
+        margin-left: 0px;
+    }
+}
+@keyframes ishora10 {
+    0% {
+        margin-top: -100px;
+    }
+
+    100% {
+        margin-left: 0px;
+    }
+}
+@keyframes ishora11 {
+    0% {
+        margin-top: 100px;
+    }
+
+    100% {
+        margin-left: 0px;
+    }
+}
+@keyframes ishora12 {
+    0% {
+        margin-top: -100px;
+    }
+
+    100% {
+        margin-left: 0px;
+    }
+}
+@keyframes ishora13 {
+    0% {
+        margin-top: 100px;
+    }
+
+    100% {
+        margin-left: 0px;
+    }
+}
+.container2{
+    margin-bottom: 0px;
+    display: flex;
+    width: auto;
+    justify-content: center;
+}
+.f1 {
+    width:30px;
+    animation-name: f1;
+    animation-duration: 3s;
+    text-align: center;
+}
+.f2 {
+    width:30px;
+    animation-name: f2;
+    animation-duration: 3s;
+    text-align: center;
+}
+.f3 {
+    width:30px;
+    animation-name: f3;
+    animation-duration: 3s;
+    text-align: center;
+}
+.f4 {
+    width:30px;
+    animation-name: f4;
+    animation-duration: 3s;
+    text-align: center;
+}
+.f5 {
+    width:30px;
+    animation-name: f5;
+    animation-duration: 3s;
+    text-align: center;
+}
+.f6 {
+    width:30px;
+    animation-name: f6;
+    animation-duration: 3s;
+    text-align: center;
+}
+.f7 {
+    width:30px;
+    animation-name: f7;
+    animation-duration: 3s;
+    text-align: center;
+}
+.f8 {
+    width:30px;
+    animation-name: f8;
+    animation-duration: 3s;
+    text-align: center;
+}
+.f9 {
+    width:30px;
+    animation-name: f9;
+    animation-duration: 3s;
+    text-align: center;
+}
+@keyframes f1 {
+    0% {
+        margin-top: 500px;
+    }
+
+    100% {
+        margin-left: 0px;
+    }
+}
+@keyframes f2 {
+    0% {
+        margin-left: -500px;
+    }
+
+    100% {
+        margin-left: 0px;
+    }
+}
+@keyframes f3 {
+    0% {
+        margin-left: -500px;
+    }
+
+    100% {
+        margin-left: 0px;
+    }
+}
+@keyframes f4 {
+    0% {
+        margin-left: -500px;
+    }
+
+    100% {
+        margin-left: 0px;
+    }
+}
+@keyframes f5 {
+    0% {
+        margin-left: -500px;
+    }
+
+    100% {
+        margin-left: 0px;
+    }
+}
+@keyframes f6 {
+    0% {
+        margin-left: -500px;
+    }
+
+    100% {
+        margin-left: 0px;
+    }
+}
+@keyframes f7 {
+    0% {
+        margin-left: -500px;
+    }
+
+    100% {
+        margin-left: 0px;
+    }
+}
+@keyframes f8 {
+    0% {
+        margin-left: -500px;
+    }
+
+    100% {
+        margin-left: 0px;
+    }
+}
+@keyframes f9 {
+    0% {
+        margin-left: -500px;
+    }
+
+    100% {
+        margin-left: 0px;
+    }
+}
